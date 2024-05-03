@@ -38,4 +38,4 @@ LAUNCH FILE :
    - The `pack()` method is called to resize the window to fit its components snugly.
    - Finally, `setVisible(true)` makes the window visible to the user.
 
-5. Window Positioning: "setLocationRelativeTo(null)" centers the window on the screen by setting its location relative to `null`.![image](https://github.com/AwantikaAnkushe/Snake-Game/assets/113250941/66314199-27d0-4d89-b2ee-bf16894b42de)
+5. Window Positioning: "setLocationRelativeTo(null)" centers the window on the screen by setting its location relative to `null`.
